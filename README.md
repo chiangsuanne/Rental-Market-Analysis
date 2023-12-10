@@ -1,8 +1,9 @@
 # Rental-Market-Analysis
 [Project Link](https://docs.google.com/spreadsheets/d/1OY02PJzYNhM3pTjnOh5w59h4PKPIuMSwEBf8tMDVRKI/edit?pli=1#gid=1785391380)
-
-## Objective
-The purpose of this project is to assist a real estate investor in making informed decisions about investing in vacation rental properties in the Manhattan borough of New York City. The client seeks guidance on identifying the most lucrative properties based on data analysis of current Airbnb listings. The key focus areas include filtering relevant data, determining attractive neighborhoods, identifying popular property sizes, calculating occupancy rates, estimating potential revenue, and exploring factors influencing vacation rental performance.
+## Introduction
+The purpose of this project is to assist a real estate investor in making informed decisions about investing in vacation rental properties in the Manhattan borough of New York City. 
+### Objective
+The client seeks guidance on identifying the most lucrative properties based on data analysis of current Airbnb listings. The key focus areas include filtering relevant data, determining attractive neighborhoods, identifying popular property sizes, calculating occupancy rates, estimating potential revenue, and exploring factors influencing vacation rental performance.
 
 ## Project Analysis
 **Explore and Filter Data**
