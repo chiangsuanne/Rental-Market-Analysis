@@ -147,6 +147,6 @@ This rental market analysis was conducted to strategically recommend optimal sho
 **Secondary Investment Option:** A noteworthy alternative emerged in Nolita, with the second-highest estimated annual revenue of $36,275.85, offering a competitive potential return.  
 
 ### Investment Recommendation
-Considering the robust analysis and strategic focus, I recommend the investor prioritize exploring opportunities in Lower East Side. The combination of optimal revenue potential, high neighborhood popularity, and a well-defined property type (one-bedroom Superhost listings) aligns with the investor's objectives. While Nolita presents a compelling alternative, Lower East Side stands out as the prime choice for maximizing short-term vacation rental returns in the dynamic New York City market.
+Considering the comprehensive analysis and strategic focus, I recommend the investor prioritize exploring opportunities in Lower East Side. The combination of optimal revenue potential, high neighborhood popularity, and a well-defined property type (one-bedroom Superhost listings) aligns with the investor's objectives. While Nolita presents a compelling alternative, Lower East Side stands out as the prime choice for maximizing short-term vacation rental returns in the dynamic New York City market.
 
 This recommendation is contingent on the assumptions made during the analysis, such as an assumed occupancy and the calculated average price. Ongoing monitoring and adaptation to market trends are advised for sustained success in the ever-evolving vacation rental landscape.
