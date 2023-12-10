@@ -21,15 +21,11 @@ The purpose of this project is to assist a real estate investor in making inform
 
 - Enhanced Data Credibility by Excluding Inactive Listings
 
-- Improved Accuracy for Analyzing Rental Trends
-
 1.3: Standardized Neighborhood Data
 
 - Created "neighborhood_clean" Column
 
 - Enhanced Data Consistency by Standardizing Neighborhood Labels
-
-- Facilitated Accurate Analysis of Neighborhood Preferences
 
 **Determine Targeted Property Types**
 
@@ -39,23 +35,17 @@ The purpose of this project is to assist a real estate investor in making inform
 
 - Highlighted Top 10 Neighborhoods with Maximum Reviews
 
-- Facilitated Focus on High-Performing Areas for Strategic Analysis
+  ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/afbfde41-dfd4-4947-bdb3-4d9d504550e0)
 
-2.2: Analyze Property Size Preferences
+2.2: Analyze Property Size Preferences and Distribution
 
-- Built Pivot Table to Compare Bedroom Preferences
+- Built Pivot Table to Compare Bedroom Preferences by Displaying Size Distribution
+
+- - Investigated Property Size Variation Within Top 10 Neighborhoods
 
 - Identified Most Popular Number of Bedrooms for Rentals
 
-- Informed Decision-Making on Optimal Property Sizes
-
-2.3: Explore Property Size Distribution
-
-- Updated Pivot Table to Display Size Distribution
-
-- Investigated Property Size Variation Within Top 10 Neighborhoods
-
-- Provided Insight into Diverse Property Sizes in High-Demand Areas
+  ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/68af1f2d-a1aa-48a1-a6ac-dcb5702afbe9)
 
 **Calculate Occupancy Rates**
 
@@ -65,15 +55,11 @@ The purpose of this project is to assist a real estate investor in making inform
 
 - Laid Foundation for Occupancy Rate Calculation
 
-- Prepared Data for In-Depth Occupancy Analysis
-
 3.2: Determine Average Occupancy
 
 - Built Pivot Table for Average Occupancy
 
 - Analyzed Listing-Level Occupancy Rates
-
-- Facilitated Understanding of Occupancy Patterns
 
 3.3: Explore Weekly Occupancy Variations
 
@@ -81,7 +67,7 @@ The purpose of this project is to assist a real estate investor in making inform
 
 - Identified Days of the Week with Highest Occupancy Rates
 
-- Provided Insights into Weekly Rental Trends
+ ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/d696a1db-4cae-4b20-998e-0dcc137fe39a)
 
 **Estimate Revenue for Investment Properties**
 
@@ -91,23 +77,17 @@ The purpose of this project is to assist a real estate investor in making inform
 
 - Focused Analysis on High-Potential Areas
 
-- Enhanced Precision in Revenue Estimation
-
 4.2: Filter for Quality Listings
 
 - Removed Listings with Rating Below 4
 
 - Ensured Quality Standards for Revenue Estimation
 
-- Improved Accuracy in Assessing Rental Potential
-
 4.3: Target Specific Property Types
 
-- Filtered for 1 Bedroom Listings in Lower East Side
+- Filtered for 1 Bedroom Listings
 
 - Narrowed Down Property Type for Accurate Revenue Estimates
-
-- Aligned Recommendations with Investor Preferences
 
 4.4: Calculate Estimated Annual Revenue
 
@@ -115,4 +95,46 @@ The purpose of this project is to assist a real estate investor in making inform
 
 - Calculated Annual Revenue for Targeted Listings
 
-- Provided Investor with Accurate Revenue Projections
+  ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/239db178-3699-46bb-b5de-8c48bdae4e76)
+
+
+**Key Attributes for Vacation Rentals**
+
+5.1: Analyzed Impact of Superhost Status on Prices
+
+- Built Pivot Table for Average Price Calculation
+
+- Analyzed Pricing Variation for Superhost Listings
+
+- Identified Price Trends Linked to Superhost Status
+
+  ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/7938c062-53da-4a96-933c-0842ff1d67bf)
+
+5.2: Evaluated Impact of Instant Booking on Occupancy Rates
+
+- Built Pivot Table for Average Occupancy Rate Calculation
+
+- Investigated Instant Booking Influence on Occupancy Rates
+
+  ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/b0c01c59-3f70-4139-aa11-bb8399a3edbb)
+
+5.3: Investigated Doorman Presence and Its Effect on Review Scores  
+
+- Built Pivot Table for Average Review Rating Calculation
+
+- Explored the Impact of Doorman Presence on Reviews
+
+  ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/196a7315-7567-43b8-9484-400c9f2af888)
+
+5.4: Examine Correlation Between Ratings and Pricing
+
+- Built Pivot Table for Average Price Calculation
+
+- Analyzed Correlation Between Review Ratings and Prices
+
+  ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/eb51cf56-f716-4c24-a258-71290ad711b9)
+
+## Executive Summary
+### Conclusion
+
+### Investment Recommendation
