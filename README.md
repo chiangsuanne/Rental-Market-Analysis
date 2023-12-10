@@ -136,5 +136,16 @@ The purpose of this project is to assist a real estate investor in making inform
 
 ## Executive Summary
 ### Conclusion
+This rental market analysis was conducted to strategically recommend optimal short-term vacation properties in New York City, aligning with the project's objective. By applying rigorous data analysis and filtering criteria, our focus centered on actively rented and highly reviewed one-bedroom listings hosted by Superhosts in the top 10 popular neighborhoods.  
+
+### Key Findings 
+**Investment Focus:** The project's emphasis on Lower East Side and Nolita, within the top 10 neighborhoods, revealed compelling investment opportunities.
+
+**Revenue Potential:** The highest estimated annual revenue of $41,646.54 was identified for a one-bedroom investment property in Lower East Side. This projection was based on a calculated average price of $307.95 and an average occupancy rate of 37.1% over a 365-day period.
+
+**Secondary Investment Option:** A noteworthy alternative emerged in Nolita, with the second-highest estimated annual revenue of $36,275.85, offering a competitive potential return.  
 
 ### Investment Recommendation
+Considering the robust analysis and strategic focus, I recommend the investor prioritize exploring opportunities in Lower East Side. The combination of optimal revenue potential, high neighborhood popularity, and a well-defined property type (one-bedroom Superhost listings) aligns with the investor's objectives. While Nolita presents a compelling alternative, Lower East Side stands out as the prime choice for maximizing short-term vacation rental returns in the dynamic New York City market.
+
+This recommendation is contingent on the assumptions made during the analysis, such as an assumed occupancy and the calculated average price. Ongoing monitoring and adaptation to market trends are advised for sustained success in the ever-evolving vacation rental landscape.
