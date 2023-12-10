@@ -96,8 +96,7 @@ The client seeks guidance on identifying the most lucrative properties based on 
 
 - Calculated Annual Revenue for Targeted Listings
 
-  ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/239db178-3699-46bb-b5de-8c48bdae4e76)
-
+  ![image](https://github.com/chiangsuanne/Rental-Market-Analysis/assets/108243961/ca797a1d-5747-4fcc-a927-c725a0383bd4)
 
 **Key Attributes for Vacation Rentals**
 
