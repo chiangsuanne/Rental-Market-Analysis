@@ -42,7 +42,7 @@ The client seeks guidance on identifying the most lucrative properties based on 
 
 - Built Pivot Table to Compare Bedroom Preferences by Displaying Size Distribution
 
-- - Investigated Property Size Variation Within Top 10 Neighborhoods
+- Investigated Property Size Variation Within Top 10 Neighborhoods
 
 - Identified Most Popular Number of Bedrooms for Rentals
 
